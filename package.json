@@ -1,0 +1,16 @@
+{
+  "name": "cypress--automation-framework-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "triggerAllTests-headless": "npx cypress run",
+    "triggerAllTests-chrome":"npx cypress run --browser chrome"
+  },
+    
+  "author": "Gianni Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}

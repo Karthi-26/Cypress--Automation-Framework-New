@@ -1,0 +1,34 @@
+{
+    "flipkart": {
+        "name": "Using fixtures to represent data",
+        "flipkart_site": "https://www.flipkart.com",
+        "login_button": "._1_3w1N",
+        "close_login_button": "._2hriZF ._2QfC02 ._2KpZ6l",
+        "select_mobile": "div[class='xtXmba']",
+        "search_mobile_brand": ".QvtND5 span",
+        "select_gionee": "._38vbm7 >._4921Z>._1Y4Vhm>._2iDkf8",
+        "click_apply_filters": ".THxusM span",
+        "verify_first_mobile_name": ".col ._4rR01T",
+        "verify_first_mobile_price": "._30jeq3",
+        "type_first_moblie_name": "._3704LK",
+        "analysis_first_mobile_name": ".col ._4rR01T",
+        "analysis_first_mobile_price": "._30jeq3",
+        "searchbox": "._3704LK"
+    },
+    "gitHub": {
+        "gitHub_site": "https://github.com",
+        "select_Explore": ".d-lg-inline-block",
+        "select_first_repositories_option": ".text-normal .v-align-middle",
+        "verify_userNaeme": ".min-width-0 .color-fg-muted",
+        "explore": {
+            "select_topics": ".list-style-none.f5 .d-block",
+            "select_Second_Browser": ".col-12 .flex-justify-center",
+            "select_first_repositories": ".f3 .wb-break-word",
+            "userName": ".user-mention",
+            "replace_Url": "https://github.com/",
+            "select_allresults": ".octicon-three-bars",
+            "type_newUrl": ".p-0 .is-clearable",
+            "verify_select_allRepositories": ".position-relative .no-wrap a"
+        }
+    }
+}
